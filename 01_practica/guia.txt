@@ -1,0 +1,16 @@
+La maquina virtual la descargue en https://www.virtualbox.org/
+Ubuntu 16.04 lo descargue en https://ua.releases.ubuntu.com/ubuntu-releases/releases/16.04/ 
+Al terminar la instalacion de virtualbox lo abri
+En la parte superior izquierda hay esta la opcion de "nueva" marcada bajo una figura azul
+Al empezar a crear la maquina virtual la nombre Ubuntu16 y en ISO image seleccione el ubuntu que habia descargado y los demas apartados se rellenaron solos y di click a "siguiente"
+Puese un nombre de usuario y una contraseña, lo demas lo deje como estaba y di click a "siguiente"
+Le di 4000mb de memoria ram, le di 2 nucleos y 25gb en el tamaño del disco, di click a "siguiente" y luego a "terminar"
+Al terminar se inicio la maquina virtual y la apague para configurar algo más
+Fui a configuracion-Pantalla y le di 128mb de momoria de video y incie la maquina virtual
+Mientras esperaba me registe en github (https://github.com/)
+Descargue Visual studio code (https://code.visualstudio.com/download?_exp_download=d53503e735) y git la version 2.55.0(4)x64 (https://git-scm.com/install/windows)
+instale visual studio code y git, inicie sesion en visual studio code con mi cuenta de github y vinculandolas
+Fui a github y cree un repositorio, de nombre le puse LINUX1A, sin descripcion, en visibilidad "publico", active el "add README", en Add .gitignore lo deje como estaba y en licencia use GNU General Public License v3.0
+Entre a visual studio code y agregue el repositorio y lo deje en el escritorio
+Agregue un folder al que llame "01_practica" dentro de ese folder agregue una carpeta que llame guia.txt
+al terminar la instalacion del ubuntu acepte todo lo que me pedia y seleccione mi idioma
