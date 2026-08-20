@@ -13,4 +13,7 @@ instale visual studio code y git, inicie sesion en visual studio code con mi cue
 Fui a github y cree un repositorio, de nombre le puse LINUX1A, sin descripcion, en visibilidad "publico", active el "add README", en Add .gitignore lo deje como estaba y en licencia use GNU General Public License v3.0
 Entre a visual studio code y agregue el repositorio y lo deje en el escritorio
 Agregue un folder al que llame "01_practica" dentro de ese folder agregue una carpeta que llame guia.txt
-al terminar la instalacion del ubuntu acepte todo lo que me pedia y seleccione mi idioma
+Al terminar la instalacion del ubuntu acepte todo lo que me pedia y seleccione mi idioma
+Entre a VS code y abri el folder del repositorio vinculandolas
+Abri la terminal y puse los siguientes codigos: git config --global user.name "FIRST_NAME LAST_NAME" y git config --global user.email "MY_NAME@example.com"
+En Source Control puse el mensaje de create guia.txt y luego di click a commit
